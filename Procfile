@@ -1,1 +1,1 @@
-web: python bot.py -p $PORT: '43760'
+web: python bot.py -p server.port=${PORT:33500}
