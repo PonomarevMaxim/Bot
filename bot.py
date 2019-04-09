@@ -23,7 +23,7 @@ def main():
 
 while(True):
     main()
-    time.sleep(60)
+    time.sleep(30)
 
 
 
